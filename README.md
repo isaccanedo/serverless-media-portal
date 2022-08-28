@@ -3,7 +3,7 @@
   <h1>Serverless Media Portal</h1>
 </div>
 
-### 🚀 What is this?
+### 🚀 O que é isto?
 This repo contains the full stack for creating a private, password-protected website for sharing home videos with family. The project (and this accompanying article) aim to make the deployment as easy as possible, taking no more than 10-15 minutes.
 
 ![smp-demo.gif](smp-demo.gif)
